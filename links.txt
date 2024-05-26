@@ -21,15 +21,15 @@ Csharp forms hard - https://github.com/D4Gj/gos/raw/sharp/sharp_alb.txt
 
 Новое ИП
 
-IP1 - https://github.com/Artem-pibd/GOSY/blob/main/1.TXT
-IP2 - https://github.com/Artem-pibd/GOSY/blob/main/2.txt
-IP3 - https://github.com/Artem-pibd/GOSY/blob/main/3.TXT
-IP4 - https://github.com/Artem-pibd/GOSY/blob/main/4.TXT
-IP5 - https://github.com/Artem-pibd/GOSY/blob/main/5.TXT
+IP1 - https://raw.githubusercontent.com/Artem-pibd/GOSY/main/1.TXT
+IP2 - https://raw.githubusercontent.com/Artem-pibd/GOSY/main/2.txt
+IP3 - https://raw.githubusercontent.com/Artem-pibd/GOSY/main/3.TXT
+IP4 - https://raw.githubusercontent.com/Artem-pibd/GOSY/main/4.TXT
+IP5 - https://raw.githubusercontent.com/Artem-pibd/GOSY/main/5.TXT
 
 Новый Андройд
 
-Andr - https://github.com/Artem-pibd/GOSY/blob/main/%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B9%D0%B4.txt
+Andr - https://raw.githubusercontent.com/Artem-pibd/GOSY/main/%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B9%D0%B4.txt
 
 ===SOS===
 
